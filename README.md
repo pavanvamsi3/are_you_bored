@@ -1,5 +1,3 @@
-# kuch toh :baby_chick:
-List of articles to read when you feel like doing "kuch toh"
 
 #### Digital Wellbeing
 
