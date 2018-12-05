@@ -1,7 +1,7 @@
 # kuch toh
 List of articles to read when you feel like doing "kuch toh"
 
-> `kuch toh` translates to `something` in hindi
+> `kuch toh` translates to `something` in Hindi
 
 #### Digital Wellbeing
 
