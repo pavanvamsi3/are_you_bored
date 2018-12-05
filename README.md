@@ -11,6 +11,7 @@ List of articles to read when you feel like doing "kuch toh"
 #### Nerd stuff
 
 1. [Circuit breaker pattern](https://medium.com/@jegasingamjeyanthasingam/circuit-breaker-pattern-for-microservices-eb71569dc44d)
+2. [Distributed caching with Redis](https://gautamdhameja.com/distributed-caching-with-redis-17e565ee71d8)
 
 #### Climate Reality
 
