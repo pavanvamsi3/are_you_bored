@@ -11,3 +11,7 @@ List of articles to read when you feel like doing "kuch toh"
 #### Nerd stuff
 
 1. [Circuit breaker pattern](https://medium.com/@jegasingamjeyanthasingam/circuit-breaker-pattern-for-microservices-eb71569dc44d)
+
+#### Climate Reality
+
+1. [Unforgetting sights of our changing world](https://nexusmedianews.com/unforgettable-sights-of-our-changing-world-2df468c71de)
