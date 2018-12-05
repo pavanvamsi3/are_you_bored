@@ -14,3 +14,7 @@ List of articles to read when you feel like doing "kuch toh"
 #### Climate Reality
 
 1. [Unforgettable sights of our changing world](https://nexusmedianews.com/unforgettable-sights-of-our-changing-world-2df468c71de)
+
+#### Philosophy
+
+1. [Your desk will not attend your funeral](https://medium.com/personal-growth/your-desk-will-not-attend-your-funeral-779515a81dd3)
