@@ -13,4 +13,4 @@ List of articles to read when you feel like doing "kuch toh"
 
 #### Climate Reality
 
-1. [Unforgetting sights of our changing world](https://nexusmedianews.com/unforgettable-sights-of-our-changing-world-2df468c71de)
+1. [Unforgettable sights of our changing world](https://nexusmedianews.com/unforgettable-sights-of-our-changing-world-2df468c71de)
