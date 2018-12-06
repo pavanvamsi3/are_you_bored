@@ -23,3 +23,6 @@
 
 1. [Your desk will not attend your funeral](https://medium.com/personal-growth/your-desk-will-not-attend-your-funeral-779515a81dd3)
 2. [Full stack developers, unicorns and other mythological beings](https://medium.com/datadriveninvestor/full-stack-developers-unicorns-and-other-mythological-beings-297265ba9a15)
+
+---------------------
+> You're welcome!
