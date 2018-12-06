@@ -16,6 +16,7 @@
 3. [Go serverless - Let's create a file sharing application based on aws services](https://medium.com/proud2becloud/go-serverless-lets-create-a-file-sharing-application-based-on-aws-services-f2827bacc7b0)
 4. [A simple explanation of OOPs](https://medium.com/@richardeng/a-simple-explanation-of-oop-46a156581214)
 5. [Recursion is not hard](https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83)
+6. [Design systems for the rest of us](https://buttondown.email/sid/archive/07e5b0de-b73f-49d9-af91-0149a6dbaf09)
 
 #### Climate Reality
 
@@ -25,6 +26,7 @@
 
 1. [Your desk will not attend your funeral](https://medium.com/personal-growth/your-desk-will-not-attend-your-funeral-779515a81dd3)
 2. [Full stack developers, unicorns and other mythological beings](https://medium.com/datadriveninvestor/full-stack-developers-unicorns-and-other-mythological-beings-297265ba9a15)
+3. [Start up or a big company, where should you work?](https://us15.campaign-archive.com/?u=0a756fc34189f5309c4080829&id=8f234e3c97)
 
 ---------------------
 
