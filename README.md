@@ -25,4 +25,5 @@
 2. [Full stack developers, unicorns and other mythological beings](https://medium.com/datadriveninvestor/full-stack-developers-unicorns-and-other-mythological-beings-297265ba9a15)
 
 ---------------------
-> You're welcome!
+
+###### You're Welcome! :green_heart:
