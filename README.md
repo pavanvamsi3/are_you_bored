@@ -13,6 +13,7 @@
 #### Wanna be nerds
 
 1. [A simple explanation of OOPs](https://medium.com/@richardeng/a-simple-explanation-of-oop-46a156581214)
+2. [Recursion is not hard](https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83)
 
 #### Climate Reality
 
