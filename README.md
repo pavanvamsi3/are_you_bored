@@ -10,6 +10,10 @@
 2. [Distributed caching with Redis](https://gautamdhameja.com/distributed-caching-with-redis-17e565ee71d8)
 3. [Go serverless - Let's create a file sharing application based on aws services](https://medium.com/proud2becloud/go-serverless-lets-create-a-file-sharing-application-based-on-aws-services-f2827bacc7b0)
 
+#### Wanna be nerds
+
+1. [A simple explanation of OOPs](https://medium.com/@richardeng/a-simple-explanation-of-oop-46a156581214)
+
 #### Climate Reality
 
 1. [Unforgettable sights of our changing world](https://nexusmedianews.com/unforgettable-sights-of-our-changing-world-2df468c71de)
