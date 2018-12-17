@@ -17,6 +17,7 @@
 4. [A simple explanation of OOPs](https://medium.com/@richardeng/a-simple-explanation-of-oop-46a156581214)
 5. [Recursion is not hard](https://medium.freecodecamp.org/recursion-is-not-hard-858a48830d83)
 6. [Design systems for the rest of us](https://buttondown.email/sid/archive/07e5b0de-b73f-49d9-af91-0149a6dbaf09)
+7. [What I've learned in 10 years as an SDE](https://medium.com/expedia-engineering/what-ive-learned-in-10-years-as-an-sde-9cea19aac0ce)
 
 #### Climate Reality
 
