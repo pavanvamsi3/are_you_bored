@@ -8,6 +8,7 @@
 
 1. [Six years with a distraction-free iPhone](https://medium.com/s/story/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3)
 2. [Google's digital wellbeing](https://www.androidcentral.com/googles-digital-wellbeing)
+3. [How I'm Trying to Overcome My Addiction](https://blog.usejournal.com/how-im-trying-to-overcome-my-addiction-1eda583518a6)
 
 #### Nerd stuff
 
